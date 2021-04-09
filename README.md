@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 - qq: 2881519
 - weixin: fjsdxyzzy
-- e-mail:288191@qq.com
+- e-mail:2881519@qq.com
 
 <!---
 fjyazzy/fjyazzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
